@@ -1,0 +1,3 @@
+class Config:
+    BOT_TOKEN = "8390863211:AAHnj9L9dZtEE5zLwJaVT6Z-rpNbBqd_h_A"
+    ADMIN_IDS = [5927571454]
